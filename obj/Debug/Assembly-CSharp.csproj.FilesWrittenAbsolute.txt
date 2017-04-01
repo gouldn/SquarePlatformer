@@ -1,0 +1,17 @@
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/fishburj/Desktop/Final/obj/Debug/Assembly-CSharp.dll
+/Users/fishburj/Desktop/Final/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/UnityEngine.dll
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/UnityEditor.dll
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/Mono.Cecil.dll
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/Unity.DataContract.dll
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/fishburj/Desktop/Final/Temp/bin/Debug/Mono.Cecil.Mdb.dll
